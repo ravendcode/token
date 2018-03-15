@@ -6,6 +6,7 @@
 
 ## Usage
 
-1. `go install ./...`
-2. `token`
-3. `token <int>`
+1. `go get github.com/ravendcode/token/token`
+2. `go install ./...`
+3. `token`
+4. `token <int>`
